@@ -1,0 +1,9 @@
+# to install venv without conda (windows)
+  python -m venv myenv
+
+# to activate this 
+  myenv\Scripts\activate
+
+# for linux 
+ pip install virtualenvn
+ virtualenv -p python3 virtual_env
